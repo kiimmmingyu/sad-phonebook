@@ -2,7 +2,7 @@
 
 이름·전화번호·그룹·메모를 저장하고, 초성 검색으로 빠르게 찾는 전화번호부 웹사이트입니다.
 
-- 프레임워크: Next.js 15 (App Router, TypeScript)
+- 프레임워크: Next.js 16 (App Router, TypeScript)
 - 데이터베이스: Supabase (PostgreSQL)
 - 배포: Vercel
 
